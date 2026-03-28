@@ -1,19 +1,19 @@
-# Data-Analysis-Project
-This project contains data analysis and visualization using Excel and Python.
 # Data Analysis Project
 
-##  Project Overview
-This project focuses on data analysis and visualization using Excel and Python.
+## 📊 Overview
+This project is about data analysis and visualization using Excel and Python.
 
-##  Tools Used
+## 🔧 Tools Used
 - MS Excel
-- Python (Pandas, Matplotlib)
+- Python
 
-## Key Features
+## 📈 Features
 - Data Cleaning
 - Data Analysis
 - Dashboard Creation
-- Screenshots
-  (![fiverr3](fiverr.png))
-## Author
-Nasrat Abid - Data Science Student
+
+## 📷 Screenshots
+(![fiverr](fiverr.png))
+
+## 🚀 Author
+Your Name - Data Science Student
